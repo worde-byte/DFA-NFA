@@ -1,10 +1,4 @@
-import React from 'react';
+<script>
+import cytoscape from "cytoscape";
 
-export default function App() {
-    return (
-      <React.Fragment>
-        <h2>DFA go Brrr...</h2>
-        <h2>Two</h2>
-      </React.Fragment>
-    );
-  }
+</script>
